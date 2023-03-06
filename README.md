@@ -1,5 +1,5 @@
 # tutorial_for_github
-## procedures to push a lolocal directory to online github
+## procedures to push a local directory to online github
 #### online
 1. create a new repository in your github account
 2. copy its ssh address which will be used for remote connect
