@@ -24,3 +24,7 @@
 ignore.txt
 ```
 3. if a file has been managed, use `git rm --cached "filename"` to ignore it and add it to .gitignore
+## erros
+- ! [rejected]        main -> main (fetch first)
+error: failed to push some refs to 'github.com:wanshouqiao/tutorial_for_github.git'
+> use `git pull --rebase origin main` to specify the branch
