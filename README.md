@@ -32,6 +32,12 @@ ignore.txt
 !test.c 
 !README.md
 ```
+```.gitignore
+#for directory
+*
+!*/
+!fish/
+```
 ## erros
 - ! [rejected]        main -> main (fetch first)
 error: failed to push some refs to 'github.com:wanshouqiao/tutorial_for_github.git'
