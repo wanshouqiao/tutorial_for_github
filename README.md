@@ -27,7 +27,7 @@ ignore.txt
 3. if a file has been managed, use `git rm --cached "filename"` to ignore it and add it to .gitignore
 4. when you only want to git few files in a directory, you can do as follows
 ```.gitignore
-#all file will be ignored except for test.c and README.md, one line for each
+#all file will be ignored except for test.c and README.md, one line for each, only for file not directory
 *
 !test.c 
 !README.md
