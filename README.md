@@ -14,6 +14,7 @@
 3. use `ssh-keygen -t rsa -C "x@x.com"` to create secret key, just return to finish the creation
 4. add the id_rsa.pub to your github ssh and gpg keys
 5. use `git remote add origin git@github.com:wanshouqiao/tutorial_for_github.git` to connect your local directory with your online repository
+> use `git remote set-url origin another_repository` to change your repository
 6. use `git push origin main` to push your directory to repository
 > origin is bind to your ssh address
 7. use `git clone "address"` to clone your online repository
